@@ -54,7 +54,8 @@ Key highlights from the analysis:
 ---
 
  ## 🖼️ Project Preview  
-![project](https://github.com/user-attachments/assets/1f0805d8-0533-4c5f-b056-9ec860251d56)
+ 
+ ![project](https://github.com/user-attachments/assets/1f0805d8-0533-4c5f-b056-9ec860251d56)
 
 ---
 
